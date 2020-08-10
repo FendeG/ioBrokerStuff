@@ -1,0 +1,31 @@
+@hostname = www.nu.nl
+@port = 80
+@host = {{hostname}}:{{port}}
+
+
+
+###
+
+http://{{host}}
+
+###
+
+get {{API_URL}}
+
+###
+
+http://www.nu.nl:80
+
+###
+
+http://www.google.nl
+
+###
+
+http://www.fendeg.nl
+
+
+
+ls
+
+

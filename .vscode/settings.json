@@ -1,0 +1,17 @@
+{
+    "rest-client.environmentVariables": {
+      "local-test": {
+        "API_URL": "http://localhost:3001",
+
+      },
+      "local-live": {
+        "API_URL": "http://localhost:6001"
+      },
+      "server-test": {
+        "API_URL": "http://10.2.10.230:3001"
+      },
+      "server-live": {
+        "API_URL": "http://10.2.10.230:6001"
+      }
+    }
+  }
